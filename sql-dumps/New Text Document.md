@@ -1,1 +1,0 @@
-All .txt files or sql dumps goes into this folder
